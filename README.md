@@ -1,4 +1,4 @@
-# Calculadorajn
+# Calculadora
 
 [![Captura-de-pantalla-2022-11-28-143445.png](https://i.postimg.cc/y8CJHR7b/Captura-de-pantalla-2022-11-28-143445.png)](https://postimg.cc/ZCjYPCB8)
 📝 Descripción
